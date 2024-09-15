@@ -1,0 +1,2 @@
+# Offset Generator
+This program is designed to automatically generate structured offsets for specified classes within an assembly. It takes advantage of reflection techniques to identify class fields and their memory offsets, formatting them into a structured and consistent namespace for further use in game development or reverse engineering tasks. It can efficiently extract and format data based on class and namespace configurations, outputting the results in a clean, readable format for integration into other projects.
